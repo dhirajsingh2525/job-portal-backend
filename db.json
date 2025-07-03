@@ -1,0 +1,370 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Google",
+      "city": "Bangalore",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/google.com",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "salary": "₹15 - ₹25 LPA",
+      "description": "Build and maintain scalable frontend systems using React.js.",
+      "postedAt": "2025-06-20",
+      "skills": [
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Redux",
+        "REST APIs"
+      ],
+      "education": "B.Tech in Computer Science or related field",
+      "experience": "2+ years of frontend development"
+    },
+    {
+      "id": "2",
+      "title": "Backend Engineer",
+      "company": "Amazon",
+      "city": "Hyderabad",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/amazon.com",
+      "location": "Hyderabad, India",
+      "job_type": "Remote",
+      "salary": "₹20 - ₹30 LPA",
+      "description": "Design APIs and work with microservices using Node.js and AWS.",
+      "postedAt": "2025-06-18",
+      "skills": [
+        "Node.js",
+        "AWS",
+        "Microservices",
+        "MongoDB",
+        "Docker"
+      ],
+      "education": "B.E./B.Tech in Computer Science or equivalent",
+      "experience": "3+ years in backend development"
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "Adobe",
+      "city": "Mumbai",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/adobe.com",
+      "location": "Mumbai, India",
+      "job_type": "Full-time",
+      "salary": "₹12 - ₹18 LPA",
+      "description": "Create user-friendly interfaces and prototypes using Figma.",
+      "postedAt": "2025-06-15",
+      "skills": [
+        "Figma",
+        "Sketch",
+        "User Research",
+        "Wireframing",
+        "Prototyping"
+      ],
+      "education": "Bachelor's in Design, HCI or related field",
+      "experience": "2+ years in UI/UX design"
+    },
+    {
+      "id": "4",
+      "title": "DevOps Engineer",
+      "company": "Microsoft",
+      "city": "Remote",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "location": "Remote",
+      "job_type": "Contract",
+      "salary": "₹18 - ₹28 LPA",
+      "description": "Setup CI/CD pipelines and manage cloud infrastructure on Azure.",
+      "postedAt": "2025-06-10",
+      "skills": [
+        "Azure",
+        "CI/CD",
+        "Kubernetes",
+        "Docker",
+        "Terraform"
+      ],
+      "education": "B.Tech in IT or equivalent",
+      "experience": "4+ years in DevOps roles"
+    },
+    {
+      "id": "5",
+      "title": "Mobile App Developer",
+      "company": "Flipkart",
+      "city": "Bangalore",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/flipkart.com",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "salary": "₹10 - ₹20 LPA",
+      "description": "Develop Android & iOS apps using Flutter.",
+      "postedAt": "2025-06-12",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST APIs"
+      ],
+      "education": "B.Tech/BCA in Computer Science or equivalent",
+      "experience": "1-3 years in mobile app development"
+    },
+    {
+      "id": "6",
+      "title": "Data Analyst",
+      "company": "Zomato",
+      "city": "Gurgaon",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/zomato.com",
+      "location": "Gurgaon, India",
+      "job_type": "Part-time",
+      "salary": "₹8 - ₹14 LPA",
+      "description": "Analyze large datasets using SQL and Python.",
+      "postedAt": "2025-06-17",
+      "skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Data Visualization"
+      ],
+      "education": "B.Sc/B.Tech in Statistics, Mathematics, or CS",
+      "experience": "1-2 years in data analysis"
+    },
+    {
+      "id": "7",
+      "title": "Machine Learning Engineer",
+      "company": "NVIDIA",
+      "city": "Pune",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/nvidia.com",
+      "location": "Pune, India",
+      "job_type": "Full-time",
+      "salary": "₹25 - ₹35 LPA",
+      "description": "Build scalable ML pipelines for real-time inference.",
+      "postedAt": "2025-06-21",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "MLOps",
+        "Data Engineering"
+      ],
+      "education": "Master's/Bachelor's in AI, Data Science, or related field",
+      "experience": "3+ years in ML/AI projects"
+    },
+    {
+      "id": "8",
+      "title": "QA Tester",
+      "company": "Infosys",
+      "city": "Chennai",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/infosys.com",
+      "location": "Chennai, India",
+      "job_type": "Full-time",
+      "salary": "₹5 - ₹10 LPA",
+      "description": "Test and validate enterprise software applications.",
+      "postedAt": "2025-06-13",
+      "skills": [
+        "Selenium",
+        "Manual Testing",
+        "JIRA",
+        "Postman"
+      ],
+      "education": "Any Graduate with testing certification",
+      "experience": "1-2 years in QA/Testing"
+    },
+    {
+      "id": "9",
+      "title": "Full Stack Developer",
+      "company": "TCS",
+      "city": "Delhi",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/tcs.com",
+      "location": "Delhi, India",
+      "job_type": "Hybrid",
+      "salary": "₹12 - ₹20 LPA",
+      "description": "Work on MERN stack and REST APIs.",
+      "postedAt": "2025-06-16",
+      "skills": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "REST APIs"
+      ],
+      "education": "B.Tech in Computer Science",
+      "experience": "2+ years in full stack development"
+    },
+    {
+      "id": "10",
+      "title": "Cloud Architect",
+      "company": "IBM",
+      "city": "Noida",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/ibm.com",
+      "location": "Noida, India",
+      "job_type": "Full-time",
+      "salary": "₹30 - ₹45 LPA",
+      "description": "Design enterprise cloud infrastructure using AWS and GCP.",
+      "postedAt": "2025-06-22",
+      "skills": [
+        "AWS",
+        "GCP",
+        "Cloud Security",
+        "Kubernetes",
+        "Networking"
+      ],
+      "education": "Master’s/Bachelor’s in Computer Science or related",
+      "experience": "5+ years in cloud infrastructure"
+    },
+    {
+      "id": "11",
+      "title": "Technical Writer",
+      "company": "Oracle",
+      "city": "Kolkata",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/oracle.com",
+      "location": "Kolkata, India",
+      "job_type": "Remote",
+      "salary": "₹8 - ₹12 LPA",
+      "description": "Write clear documentation for enterprise software.",
+      "postedAt": "2025-06-14",
+      "skills": [
+        "Technical Writing",
+        "Markdown",
+        "Git",
+        "API Documentation"
+      ],
+      "education": "B.A./B.Tech in English, CS or related",
+      "experience": "2+ years in technical writing"
+    },
+    {
+      "id": "12",
+      "title": "Cybersecurity Analyst",
+      "company": "Cisco",
+      "city": "Ahmedabad",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/cisco.com",
+      "location": "Ahmedabad, India",
+      "job_type": "Full-time",
+      "salary": "₹15 - ₹22 LPA",
+      "description": "Monitor and protect systems from cyber threats.",
+      "postedAt": "2025-06-11",
+      "skills": [
+        "SIEM",
+        "Firewall",
+        "Python",
+        "Network Security",
+        "Threat Detection"
+      ],
+      "education": "B.Tech in Cybersecurity or IT",
+      "experience": "2+ years in cybersecurity domain"
+    },
+    {
+      "id": "13",
+      "title": "Product Manager",
+      "company": "Swiggy",
+      "city": "Bangalore",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/swiggy.com",
+      "location": "Bangalore, India",
+      "job_type": "Full-time",
+      "salary": "₹28 - ₹40 LPA",
+      "description": "Drive product strategy and delivery with cross-functional teams.",
+      "postedAt": "2025-06-19",
+      "skills": [
+        "Agile",
+        "Product Roadmaps",
+        "User Research",
+        "A/B Testing"
+      ],
+      "education": "MBA or B.Tech with product experience",
+      "experience": "4+ years in product management"
+    },
+    {
+      "id": "14",
+      "title": "System Administrator",
+      "company": "Wipro",
+      "city": "Nagpur",
+      "country": "India",
+      "logo": "https://logo.clearbit.com/wipro.com",
+      "location": "Nagpur, India",
+      "job_type": "Full-time",
+      "salary": "₹9 - ₹15 LPA",
+      "description": "Maintain and troubleshoot servers and networks.",
+      "postedAt": "2025-06-09",
+      "skills": [
+        "Linux",
+        "Windows Server",
+        "Networking",
+        "Backup & Recovery"
+      ],
+      "education": "Diploma/B.E. in IT or related field",
+      "experience": "2+ years in system admin role"
+    },
+    {
+      "id": "3a02",
+      "title": "frontent devloper",
+      "company": "Amazon",
+      "logo": "https://logo.clearbit.com/wipro.com",
+      "city": "bhopal",
+      "country": "india",
+      "location": "bhopal india",
+      "job_type": "Full-time",
+      "salary": "3LPA - 7LPA",
+      "description": "friontent devloper",
+      "education": "btech",
+      "experience": "0 - 7years",
+      "skills": [
+        "html,css,",
+        "js,",
+        "reactjs"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "Rkdgp-_Zybg--l4Uu1UA8",
+      "name": "dhiraj kr singh",
+      "email": "jarihd4321@gmail.com",
+      "password": "123",
+      "role": "recruiter",
+      "appliedjob": []
+    },
+    {
+      "id": "YIkeRbunvCsqKdQQ6514Z",
+      "name": "dhiraj kr singh",
+      "email": "a@a.com",
+      "password": "123",
+      "role": "Candidate",
+      "appliedjob": [
+        {
+          "name": "dhiraj kr singh",
+          "email": "a@a.com",
+          "number": "7488558184",
+          "company": "Amazon",
+          "role": "frontent-devloper  india",
+          "skills": "html,css, js, reactjs",
+          "education": "btech",
+          "resume": "knjjew.jpg",
+          "message": "eifji4jfi4hfihf4hf",
+          "linkedin": ""
+        },
+        {
+          "name": "dhiraj kr singh",
+          "email": "a@a.com",
+          "number": "7488558184",
+          "company": "Abdobe",
+          "role": "frontent-devloper  india",
+          "skills": "html,css, js, reactjs",
+          "education": "btech",
+          "resume": "knjjew.jpg",
+          "message": "54oi55hti5h5tih5ghi5tgitnvrtvnurtv",
+          "linkedin": ""
+        }
+      ]
+    }
+  ]
+}
